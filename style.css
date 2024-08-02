@@ -112,9 +112,9 @@ html,body{
     }
 
     .bubble {
-        height: 35px;
-        width: 35px;
-        font-size: 18px;
+        height: 40px;
+        width: 40px;
+        font-size: 19px;
     }
 }
 
@@ -139,9 +139,9 @@ html,body{
     }
 
     .bubble {
-        height: 30px;
-        width: 30px;
-        font-size: 16px;
+        height: 35px;
+        width: 35px;
+        font-size: 17px;
     }
 
     .panel-bottom {
